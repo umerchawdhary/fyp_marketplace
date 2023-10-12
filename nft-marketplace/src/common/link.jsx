@@ -1,1 +1,0 @@
-export const nftLink = "http://localhost:3000"
